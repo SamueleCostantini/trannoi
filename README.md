@@ -1,5 +1,2 @@
-Costantini
-
-Samuele
-
-Matricola: 332653
+#Progetto universitario: 
+Implementazione testuale del gioco Among Us in C
